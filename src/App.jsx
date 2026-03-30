@@ -4,7 +4,7 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 // Components & Pages
-import Navbar from "./components/NavBar";
+import Navbar from "./components/Navbar";
 import Sidebar from "./components/Sidebar";
 import Dashboard from "./pages/Dashboard";
 import Add from "./pages/Add";
