@@ -10,7 +10,7 @@ import Dashboard from "./pages/Dashboard";
 import Add from "./pages/Add";
 import List from "./pages/List";
 import Orders from "./pages/Orders";
-import HeroManage from "./pages/HeroManage";
+import HeroManage from "./pages/Heromanage";
 import Login from "./components/Login";
 
 export const backendUrl =
