@@ -14,7 +14,7 @@ import HeroManage from "./pages/Heromanage";
 import Login from "./components/Login";
 
 export const backendUrl =
-  "https://aura-fashionbackend2-production.up.railway.app";
+  "https://aura-fashionbackend2.vercel.app/";
 
 const App = () => {
   const [token, setToken] = useState(localStorage.getItem("token") || "");
